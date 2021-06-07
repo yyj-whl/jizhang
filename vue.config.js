@@ -1,7 +1,8 @@
 /* eslint-disable */ 
 const path = require('path')
 module.exports = {
-  lintOnSave: false,
+    publicPath:'/',
+    lintOnSave: false,
     chainWebpack: config => {
         const dir = path.resolve(__dirname, 'src/assets/icons')
         config.module
