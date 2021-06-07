@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "dayjs": "^1.8.20",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
+    "vue-drag-verify": "https://registry.npmjs.org/vue-drag-verify/-/vue-drag-verify-1.0.6.tgz",
     "vue-property-decorator": "^9.1.2",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
@@ -39,7 +41,7 @@
     "svg-sprite-loader": "^6.0.2",
     "svgo": "^2.3.0",
     "svgo-loader": "^3.0.0",
-    "typescript": "~4.1.5",
+    "typescript": "~3.7.5",
     "vue-template-compiler": "^2.6.11"
   },
   "gitHooks": {
